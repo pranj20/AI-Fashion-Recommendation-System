@@ -111,12 +111,12 @@ The app will open automatically in your browser.
 <img src="ss_fashionapp/Screenshot 2025-12-01 160625.png" width="900"/>
 
 ### 👗 Outfit Recommendation Results
+<img src="ss_fashionapp/Screenshot 2025-12-01 161303.png" width="900"/>
 
-<img src="ss_fashionapp/Screenshot 2025-12-01 160756.png" width="900"/>
-<img src="ss_fashionapp/Screenshot 2025-12-01 160809.png" width="900"/>
 
 ### 📊 Brand Comparison & Fit Insights
-
+<img src="ss_fashionapp/Screenshot 2025-12-01 160756.png" width="900"/>
+<img src="ss_fashionapp/Screenshot 2025-12-01 160809.png" width="900"/>
 <img src="ss_fashionapp/Screenshot 2025-12-01 160858.png" width="900"/>
 <img src="ss_fashionapp/Screenshot 2025-12-01 160921.png" width="900"/>
 
