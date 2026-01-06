@@ -123,10 +123,9 @@ The app will open automatically in your browser.
 ### ⚙️ Additional Features & UI Flow
 
 <img src="ss_fashionapp/Screenshot 2025-12-01 160947.png" width="900"/>
-<img src="ss_fashionapp/Screenshot 2025-12-01 161001.png" width="900"/>
+
 <img src="ss_fashionapp/Screenshot 2025-12-01 161212.png" width="900"/>
-<img src="ss_fashionapp/Screenshot 2025-12-01 161231.png" width="900"/>
-<img src="ss_fashionapp/Screenshot 2025-12-01 161251.png" width="900"/>
+
 
 ---
 
